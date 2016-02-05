@@ -1,0 +1,2 @@
+This OS is being written only with the purpose of experience.
+The code is distributed under the assumption that it will be useful, without ANY warranty, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.

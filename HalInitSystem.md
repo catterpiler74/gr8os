@@ -1,0 +1,1 @@
+HalInitSystem инициализирует HAL, настраивая Local & I/O APIC и второй канал программируемого таймера Programmable Interval Timer, PIT
